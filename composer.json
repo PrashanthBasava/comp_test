@@ -1,10 +1,10 @@
 {
     "name": "prashanth.b/comp_test",
-    "description": "sample app for hello world",
+    "description": "updated sample code",
     "type": "library",
     "license": "MIT",
     "autoload": {
-        "psr-4": {"sayHello\\":"."}
+        "psr-4": {"Hello\\":"src/"}
     },
     "require": {}
 }

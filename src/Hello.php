@@ -1,5 +1,6 @@
 <?php
-class hello
+namespace Hello;
+class Hello
 {
 	public function sayhello()
 	{
